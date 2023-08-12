@@ -7,7 +7,6 @@ from cellSegmentation.constant.application import APP_HOST, APP_PORT
 
 
 
-
 app = Flask(__name__)
 CORS(app)
 
@@ -27,7 +26,6 @@ def trainRoute():
 @app.route("/")
 def home():
     return render_template("index.html")
-
 
 
 
