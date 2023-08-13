@@ -49,3 +49,4 @@ jobs:
         slot-name: 'production'
         publish-profile: ${{ secrets.AzureAppService_PublishProfile_e6d5896db1944a119667d250915a5c08 }}
         images: 'cellseg.azurecr.io/${{ secrets.AzureAppService_ContainerUsername_05ccb339066a4862a8e7813b14d1d4da }}/cell:${{ github.sha }}'
+        
