@@ -8,20 +8,20 @@ This project demonstrates the complete process of implementing an end-to-end cel
 
 #### Introduction and GitHub Repository Setup
 #### Project Template Creation
-What is Object Segmentation
-Introduction to YOLO v8
-Project Setup and Requirements Installation
-Logging, Utils, and Exceptions Modules
-Project Workflows
-Data Annotation (Polygon)
-Notebook Research
-YOLO v8 Setup
-Modular Code Implementation
-Training Pipeline
-Prediction Pipeline and User App Creation
-Docker
-GitHub Actions
-Final CI/CD Deployment on Azure Cloud
+#### What is Object Segmentation
+#### Introduction to YOLO v8
+#### Project Setup and Requirements Installation
+#### Logging, Utils, and Exceptions Modules
+#### Project Workflows
+#### Data Annotation (Polygon)
+#### Notebook Research
+#### YOLO v8 Setup
+#### Modular Code Implementation
+#### Training Pipeline
+#### Prediction Pipeline and User App Creation
+#### Docker
+#### GitHub Actions
+#### Final CI/CD Deployment on Azure Cloud
 
 ## Introduction and GitHub Repository Setup
 Start by creating a new GitHub repository and cloning it to your local machine. Initialize a README file and set up the basic directory structure.
