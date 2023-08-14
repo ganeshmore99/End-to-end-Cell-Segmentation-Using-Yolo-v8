@@ -6,8 +6,8 @@ This project demonstrates the complete process of implementing an end-to-end cel
 
 ## Table of Contents
 
-Introduction and GitHub Repository Setup
-Project Template Creation
+#### Introduction and GitHub Repository Setup
+#### Project Template Creation
 What is Object Segmentation
 Introduction to YOLO v8
 Project Setup and Requirements Installation
