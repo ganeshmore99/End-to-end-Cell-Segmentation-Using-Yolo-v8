@@ -51,7 +51,6 @@ open up you local host and port
 
 S6tXzK7IxUHz9O/9jkhciLsseddeQ++E+OcD7nQYy8+ACRDtEgUW
 
-
 ## Run from terminal:
 
 docker build -t cellseg.azurecr.io/cell:latest .
