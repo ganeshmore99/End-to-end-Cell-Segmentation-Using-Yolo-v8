@@ -1,5 +1,7 @@
 # End-to-End Cell Segmentation Using YOLO v8
 
+![ce](https://github.com/ganeshmore99/End-to-end-Cell-Segmentation-Using-Yolo-v8/assets/85934803/9b7eb98a-3e3a-4bfc-9e55-8b00aa8f8043)
+
 ## Introduction
 
 This project demonstrates the complete process of implementing an end-to-end cell segmentation system using the YOLO v8 architecture. The repository covers all the necessary steps from setting up the project to deploying the model on Azure Cloud.
